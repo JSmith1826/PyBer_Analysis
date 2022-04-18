@@ -10,6 +10,7 @@ The purpose of this analysis is to get an overview of PyBer's ride sharing busin
 ### Results:
 #### Overview
 ![Fig1](./analysis/Fig1.png)
+
 This plot is a "veiw from the top" summarizing all the data we looked at in what is called a bubble chart. We will drill down furthur into the data with the figures below.
 
 #### Ride Count Distribution by City Type
